@@ -397,7 +397,7 @@ func printBanner() {
 /_/   /_/ |_|\____/_/|_|  /_/   /_/   /___/_/   |_|/_____/_____/_/ |_|  
 ` + ColorReset + `
 													 
-` + NeonCyan + `       >> PROXY FINDER ` + Version + ` <<` + ColorReset + `
+` + NeonCyan + `       >> PROXY FINDER <<` + ColorReset + `
 ` + DarkGray + `       -----------------------------------------` + ColorReset + `
 `
 	fmt.Println(banner)
