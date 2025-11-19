@@ -2,8 +2,7 @@
 
 **Proxy Finder** is a high-performance, multi-threaded command-line tool written in Go (Golang). It scrapes, validates, and benchmarks public proxies from over 30+ distinct sources, supporting HTTP, HTTPS, SOCKS4, and SOCKS5 protocols.
 
-![Proxy Finder Preview](https://img.shields.io/badge/Version-4.1.0-cyan?style=for-the-badge) ![Go](https://img.shields.io/badge/Language-Go-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
+![Go](https://img.shields.io/badge/Language-Go-blue?style=for-the-badge)
 ## ✨ Features
 
 * **🚀 Ultra Fast:** Uses Go routines for concurrent checking (default 500 threads).
